@@ -24,11 +24,11 @@
 
 #### Commit Message
 
-- [Baekjoon-Samsung-문제번호] 문제명.java
+- [Baekjoon-Samsung-문제번호] 
 
-- [Programmers-Kakao] 문제명.java
+- [Programmers-Kakao] 
 
-- [Baekjoon-알고리즘 분류-문제번호] 문제명.java
+- [Baekjoon-알고리즘 분류-문제번호]
 
 
 <br/>
