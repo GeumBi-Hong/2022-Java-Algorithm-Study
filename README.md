@@ -20,9 +20,7 @@
 
 #### Pull Request
 
-- [Programmers-폴더명] 이름
-
-- [Baekjoon-폴더명] 이름
+- [1주차] 이름
 
 #### Commit Message
 
