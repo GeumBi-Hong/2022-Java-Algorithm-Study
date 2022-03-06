@@ -36,3 +36,4 @@
 ## 파일 및 폴더 구조
 
 - 이름/Week_주차/문제이름.java
+- ex ) geumbi/Week_1/어항정리.java
