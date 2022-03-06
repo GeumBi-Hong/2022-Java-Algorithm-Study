@@ -24,6 +24,6 @@ public class Main2012 {
         System.out.print(answer);
 
 
-
+//이사하네
     }
 }
