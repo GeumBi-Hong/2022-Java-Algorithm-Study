@@ -11,7 +11,9 @@
 
 |주차|문제 1 (삼성 SW 역량 기출) |문제 2 (KaKao)     |문제 3  |문제 4 | 진행 상황 |
 |----|-------------------------------------|------------------|--------|-------|----------|
-| 1주차|[어항정리](https://www.acmicpc.net/problem/23291)|[양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[등수매기기](https://www.acmicpc.net/problem/2012)|진행중|
+| 1주차|[어항정리](https://www.acmicpc.net/problem/23291)|[양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[등수매기기](https://www.acmicpc.net/problem/2012)|진행완료|
+| 2주차|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)|[좀비 바이러스](https://www.acmicpc.net/problem/24513)|[영상처리](https://www.acmicpc.net/problem/21938)|진행중|
+
 
 <br/>
 
