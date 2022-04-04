@@ -14,7 +14,8 @@
 | 1주차|[어항정리](https://www.acmicpc.net/problem/23291)|[양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[등수매기기](https://www.acmicpc.net/problem/2012)|진행완료|
 | 2주차|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)|[좀비 바이러스](https://www.acmicpc.net/problem/24513)|[영상처리](https://www.acmicpc.net/problem/21938)|진행완료|
 | 3주차|[온풍기 안녕!](https://www.acmicpc.net/problem/23289)|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[우수 마을](https://www.acmicpc.net/problem/1949)|[이진 트리](https://www.acmicpc.net/problem/13325)|진행완료|
-| 4주차|[주사위 굴리기2](https://www.acmicpc.net/problem/23288)|[광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414?language=cpp)|[소형기관차](https://www.acmicpc.net/problem/2616)|[Ipv6](https://www.acmicpc.net/problem/3107)|진행중|
+| 4주차|[주사위 굴리기2](https://www.acmicpc.net/problem/23288)|[광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414?language=cpp)|[소형기관차](https://www.acmicpc.net/problem/2616)|[Ipv6](https://www.acmicpc.net/problem/3107)|진행완료|
+| 5주차|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)|[골목 대장 호석 - 효율성 1](https://www.acmicpc.net/problem/20182)|[골목 대장 호석-기능성](https://www.acmicpc.net/problem/20168)|진행중|
 
 
 <br/>
