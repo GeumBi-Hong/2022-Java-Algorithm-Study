@@ -3,8 +3,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-
-
 // !문제에서 시작 지점과 끝 지점 범위를 보면 최대 10^18이며 int형 범위를 넘는것에 주의
 public class Main {
 
