@@ -22,9 +22,12 @@
 | 5주차|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)|[골목 대장 호석 - 효율성 1](https://www.acmicpc.net/problem/20182)|[골목 대장 호석-기능성](https://www.acmicpc.net/problem/20168)|진행완료|
 | 6주차|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061?language=java)|[저울](https://www.acmicpc.net/problem/10159)|[루머](https://www.acmicpc.net/problem/19538)|진행완료|
 | 7주차|[상어 중학교](https://www.acmicpc.net/problem/21609)|[시험장 나누기](https://programmers.co.kr/learn/courses/30/lessons/81305?language=java)|[Social Distancing](https://www.acmicpc.net/problem/18877)|[휴게소 세우기](https://www.acmicpc.net/problem/1477)|진행완료|
-| 8주차|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java)|[공항](https://www.acmicpc.net/problem/10775)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|진행중|
+| 8주차|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java)|[공항](https://www.acmicpc.net/problem/10775)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|진행완료|
 
-
+### 코딩 테스트 연습 (시간 연습)
+|주차|문제 1  |문제 2   |문제 3  | 진행 상황 |
+|----|--------|---------|-------|----------|
+|9주차|[무한이진트리](https://www.acmicpc.net/problem/2078)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[ABCDE](https://www.acmicpc.net/problem/13023)|진행중|
 <br/>
 
 
