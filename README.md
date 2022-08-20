@@ -27,7 +27,10 @@
 ### 코딩 테스트 연습 (시간 연습)
 |주차|문제 1  |문제 2   |문제 3  | 진행 상황 |
 |----|--------|---------|-------|----------|
-|9주차|[무한이진트리](https://www.acmicpc.net/problem/2078)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[ABCDE](https://www.acmicpc.net/problem/13023)|진행중|
+|9주차|[무한이진트리](https://www.acmicpc.net/problem/2078)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[ABCDE](https://www.acmicpc.net/problem/13023)|진행완료|
+|10주차|[캐슬디펜스](https://www.acmicpc.net/problem/17135)|[봄버맨](https://www.acmicpc.net/problem/16918)|[주사위](https://www.acmicpc.net/problem/1041)|진행완료|
+|11주차|[불!](https://www.acmicpc.net/problem/4179)|[문자열폭발](https://www.acmicpc.net/problem/9935)|[괄호추가하기](https://www.acmicpc.net/problem/16637)|진행완료|
+|12주차|[LCS 3](https://www.acmicpc.net/problem/1958)|[사다리 조작](https://www.acmicpc.net/problem/15684)|없음|진행완료|
 <br/>
 
 
